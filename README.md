@@ -4,7 +4,8 @@
 
 ## Preview image: 
 
-![image](https://user-images.githubusercontent.com/82041920/190483179-1512993b-0f07-4010-b9ac-4570191aaac0.png)
+![image](https://github.com/anantnipunge/weather_app/assets/82041920/9733e32b-08ae-432b-a9ab-1572166433d0)
+
 
 ## Tech Stack
 
