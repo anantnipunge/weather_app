@@ -11,8 +11,7 @@
 
 - React.js
 - JavaScript
-- MonacoEditor
-- Rapid API
-- JudgeO
-- Node.js
-- Express.js
+- Hooks
+- Openweather API
+- HTML5
+- CSS3
